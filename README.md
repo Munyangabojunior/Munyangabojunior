@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/munyangabojuni1" target="blank"><img src="https://img.shields.io/twitter/follow/munyangabojuni1?logo=twitter&style=for-the-badge" alt="munyangabojuni1" /></a> </p>
 
-- 🔭 I’m currently working on **courier tracking devices**
+- 🔭 I’m currently working on **Core banking apllications**
 
 - 🌱 I’m currently learning **Deep Learning ,neural network**
 
