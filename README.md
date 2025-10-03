@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java, React, JavaScript, Python, Typescript,  Android**
 
-- 📫 How to reach me **Munyangabo4@gmail.com or munyangabo@processwaresystems.com**
+- 📫 How to reach me **Munyangabo4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
