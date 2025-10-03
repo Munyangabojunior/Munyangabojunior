@@ -1,22 +1,21 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Munyangabo Junior</h1>
-<h3 align="center">A passionate Software developer/Full stack developer from Rwanda</h3>
+<h3 align="center">Senior Software engineer | AI-Driven Core Banking & Fintech | Aspiring Full-Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=munyangabo&label=Profile%20views&color=0e75b6&style=flat" alt="munyangabo" /> </p>
 
 <p align="left"> <a href="https://twitter.com/munyangabojuni1" target="blank"><img src="https://img.shields.io/twitter/follow/munyangabojuni1?logo=twitter&style=for-the-badge" alt="munyangabojuni1" /></a> </p>
 
-- 🔭 I’m currently working on **Core banking apllications**
+- 🔭 I’m currently working on **Core banking applications and Fintech payments systems**
 
 - 🌱 I’m currently learning **Deep Learning ,neural network**
 
 - 👯 I’m looking to collaborate on **Future Projects**
 
-- 💬 Ask me about **React, JavaScript, Android**
+- 💬 Ask me about **Java, React, JavaScript, Python, Typescript,  Android**
 
-- 📫 How to reach me **Munyangabo4@gmail.com**
+- 📫 How to reach me **Munyangabo4@gmail.com or munyangabo@processwaresystems.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
